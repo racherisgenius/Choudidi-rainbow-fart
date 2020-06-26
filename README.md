@@ -35,3 +35,5 @@
 ## Reference
 
 语音来自游戏：恋与制作人中凌肖电话，去见他系统日常语音
+
+json文件基于替换官方 `Built-In Voice (Chinese)` 中keywords 及voices
